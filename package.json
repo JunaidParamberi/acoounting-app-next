@@ -37,8 +37,8 @@
     "dayjs": "^1.11.13",
     "embla-carousel-react": "^8.5.2",
     "next": "15.2.3",
-    "react": "19.0.0",
-    "react-dom": "19.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "recharts": "^2.15.1",
     "webpack": "^5.98.0"
   },
