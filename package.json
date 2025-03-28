@@ -22,19 +22,25 @@
   "dependencies": {
     "@hello-pangea/dnd": "^18.0.1",
     "@mantine/carousel": "^7.17.3",
-    "@mantine/core": "7.17.2",
+    "@mantine/core": "7.17.3",
     "@mantine/dropzone": "^7.17.3",
     "@mantine/form": "^7.17.3",
-    "@mantine/hooks": "7.17.2",
+    "@mantine/hooks": "7.17.3",
+    "@mantine/spotlight": "^7.17.3",
     "@mantinex/dev-icons": "^1.1.0",
+    "@mantinex/mantine-header": "^1.1.0",
     "@mantinex/mantine-logo": "^1.1.0",
+    "@mantinex/mantine-meta": "^1.0.2",
+    "@mantinex/shiki": "^1.1.0",
     "@next/bundle-analyzer": "^15.2.3",
     "@tabler/icons-react": "^3.31.0",
     "dayjs": "^1.11.13",
+    "embla-carousel-react": "^8.5.2",
     "next": "15.2.3",
     "react": "19.0.0",
     "react-dom": "19.0.0",
-    "recharts": "^2.15.1"
+    "recharts": "^2.15.1",
+    "webpack": "^5.98.0"
   },
   "devDependencies": {
     "@babel/core": "^7.26.10",
